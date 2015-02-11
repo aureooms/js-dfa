@@ -2,7 +2,7 @@
 	"main": "js/dist/dfa.js",
 	"repo": "aureooms/js-dfa",
 	"name": "aureooms-js-dfa",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"license": "AGPL-3.0",
 	"scripts": [
 		"js/dist/dfa.js"
