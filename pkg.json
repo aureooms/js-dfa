@@ -1,0 +1,17 @@
+{
+	"src": "js/src/",
+	"debug": false,
+	"name": "dfa",
+	"out": "js/dist/",
+	"code": {
+		"main": [
+			"js",
+			"dist",
+			"dfa.js"
+		],
+		"test": [
+			"test",
+			"js"
+		]
+	}
+}

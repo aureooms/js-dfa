@@ -1,0 +1,11 @@
+{
+	"main": "js/dist/dfa.js",
+	"repo": "aureooms/js-dfa",
+	"name": "aureooms-js-dfa",
+	"version": "0.0.0",
+	"license": "AGPL-3.0",
+	"scripts": [
+		"js/dist/dfa.js"
+	],
+	"description": "deterministic finite automaton code bricks for JavaScript"
+}

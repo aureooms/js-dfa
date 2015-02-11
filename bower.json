@@ -1,0 +1,19 @@
+{
+	"main": "js/dist/dfa.js",
+	"ignore": [
+		"js/index.js",
+		"js/src",
+		"test",
+		"pkg.json",
+		"package.json",
+		".groc.json",
+		".travis.yml",
+		".gitignore",
+		"README.md"
+	],
+	"name": "aureooms-js-dfa",
+	"version": "0.0.0",
+	"license": "AGPL-3.0",
+	"homepage": "http://aureooms.github.io/js-dfa/",
+	"description": "deterministic finite automaton code bricks for JavaScript"
+}
