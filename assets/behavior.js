@@ -13,7 +13,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "commentsOnly": true,
           "name": "Markdown"
         },
-        "sourcePath": "/home/aureooms/js-dfa/README.md",
+        "sourcePath": "/home/aureooms/dev/js/js-dfa/README.md",
         "projectPath": "README.md",
         "targetPath": "index",
         "pageTitle": "index",
@@ -33,7 +33,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/js-dfa/js/src/dummy.js",
+        "sourcePath": "/home/aureooms/dev/js/js-dfa/js/src/dummy.js",
         "projectPath": "js/src/dummy.js",
         "targetPath": "dummy",
         "pageTitle": "dummy",
