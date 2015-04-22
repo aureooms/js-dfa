@@ -13,3 +13,4 @@ deterministic finite automaton code bricks for JavaScript
 [![Code Climate](http://img.shields.io/codeclimate/github/aureooms/js-dfa.svg?style=flat)](https://codeclimate.com/github/aureooms/js-dfa)
 [![NPM downloads per month](http://img.shields.io/npm/dm/aureooms-js-dfa.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-dfa)
 [![GitHub issues](http://img.shields.io/github/issues/aureooms/js-dfa.svg?style=flat)](https://github.com/aureooms/js-dfa/issues)
+[![Inline docs](http://inch-ci.org/github/aureooms/js-dfa.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-dfa)
