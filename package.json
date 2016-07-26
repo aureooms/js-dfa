@@ -1,7 +1,7 @@
 {
 	"main": "js/dist/dfa.js",
 	"devDependencies": {
-		"aureooms-node-package": "^2.0.3"
+		"aureooms-node-package": "^6.0.1"
 	},
 	"repository": {
 		"type": "git",
