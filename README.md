@@ -3,7 +3,7 @@
 
 deterministic finite automaton code bricks for JavaScript
 
-[![NPM license](https://img.shields.io/npm/l/@aureooms/js-dfa.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-dfa/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-dfa.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-dfa/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-dfa.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-dfa)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-dfa.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-dfa)
 [![Build Status](https://img.shields.io/travis/aureooms/js-dfa.svg?style=flat)](https://travis-ci.org/aureooms/js-dfa)
