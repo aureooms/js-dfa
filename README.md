@@ -1,4 +1,4 @@
-[js-dfa](http://aureooms.github.io/js-dfa)
+[js-dfa](http://make-github-pseudonymous-again.github.io/js-dfa)
 ==
 
 deterministic finite automaton code bricks for JavaScript
