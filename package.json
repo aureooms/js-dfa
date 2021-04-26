@@ -5,12 +5,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/aureooms/js-dfa.git"
+		"url": "https://github.com/make-github-pseudonymous-again/js-dfa.git"
 	},
 	"author": "aureooms",
 	"homepage": "http://make-github-pseudonymous-again.github.io/js-dfa/",
 	"bugs": {
-		"url": "https://github.com/aureooms/js-dfa/issues"
+		"url": "https://github.com/make-github-pseudonymous-again/js-dfa/issues"
 	},
 	"name": "@aureooms/js-dfa",
 	"version": "0.0.2",
